@@ -1,15 +1,10 @@
 # CorsoC_ArduinoR4Minima
-Auto......................................27
+Auto......................................27;
 Bitfield..................................18
-
 Calloc free...............................20
-
 Char to String with c_str..................3
-
 char[posizioni] [caratteri x posizione]...17
-
 Define direttive..........................24
-
 dtostrf....................................1
 Enumerazioni (etichettare costanti).......17
 Extern su singolo file....................25
