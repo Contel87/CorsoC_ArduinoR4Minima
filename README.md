@@ -80,3 +80,5 @@ Typedef e strutture....................16,18
 Union.....................................18
 
 Volatile (variabile)......................27
+
+Process-Vs-Target-Oriented-programming 29-32
